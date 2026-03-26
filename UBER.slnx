@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="UBER/UBER.vcxproj" Id="408ab83f-e87c-491c-8a0a-c179cd44d13f" />
+</Solution>
